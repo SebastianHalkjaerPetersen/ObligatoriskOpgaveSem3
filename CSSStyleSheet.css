@@ -1,0 +1,44 @@
+p {
+    background-color: lightcoral;
+}
+
+img {
+    display: block;
+    margin-left: "auto";
+    margin-right: "auto"
+}
+
+.parsnip {
+    background-color: inherit;
+    text-align: center;
+    vertical-align: text-bottom;
+    ;
+}
+
+.col {
+    background-color: bisque;
+    max-height: fit-content;
+
+}
+
+#c1 {
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#c2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+#c3 {
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+img.bottom {
+    vertical-align: bottom;
+}
